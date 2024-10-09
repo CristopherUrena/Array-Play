@@ -1,2 +1,2 @@
 # Array-Play
-Array Play with C++
+This is a C++ project that demonstrates operations on arrays, including functions to fill, print, and sort an array. The code includes a function to fill an array with values provided by the user, stopping input when -1 is entered. Another function prints the array after operations like adding or deleting a value. There is also a function that checks if the array is sorted, returning true or false accordingly. Additionally, the code provides a function to insert a value into a sorted array, ensuring the order is maintained. This project showcases basic C++ array manipulation and sorting techniques.
